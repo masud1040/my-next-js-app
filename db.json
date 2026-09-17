@@ -1,0 +1,114 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 350,
+      "rating": 4.7,
+      "stock": 25,
+      "description": "A young shepherd's journey to discover his personal legend and follow his dreams.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self Development",
+      "price": 550,
+      "rating": 4.8,
+      "stock": 30,
+      "description": "A practical guide to building good habits, breaking bad ones, and making lasting changes.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 850,
+      "rating": 4.6,
+      "stock": 15,
+      "description": "A guide to writing clean, readable, maintainable, and professional software code.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "category": "Finance",
+      "price": 450,
+      "rating": 4.5,
+      "stock": 20,
+      "description": "A personal finance book that explores different approaches to money, investing, and wealth building.",
+      "image": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "category": "Programming",
+      "price": 900,
+      "rating": 4.7,
+      "stock": 12,
+      "description": "Practical techniques and principles for becoming a better and more effective software developer.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "category": "Personal Development",
+      "price": 400,
+      "rating": 4.4,
+      "stock": 18,
+      "description": "Classic principles focused on mindset, personal achievement, and financial success.",
+      "image": "https://covers.openlibrary.org/b/isbn/9781585424337-L.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "category": "Fantasy",
+      "price": 600,
+      "rating": 4.9,
+      "stock": 35,
+      "description": "A young wizard begins his magical education at Hogwarts and discovers a mysterious past.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780747532699-L.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 650,
+      "rating": 4.7,
+      "stock": 22,
+      "description": "Timeless lessons about how people think about money, investing, risk, and wealth.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg"
+    },
+    {
+      "id": 9,
+      "title": "You Don't Know JS Yet",
+      "author": "Kyle Simpson",
+      "category": "JavaScript",
+      "price": 700,
+      "rating": 4.6,
+      "stock": 16,
+      "description": "A deep and practical exploration of JavaScript fundamentals for developers.",
+      "image": "https://covers.openlibrary.org/b/isbn/9781091210098-L.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 500,
+      "rating": 4.6,
+      "stock": 24,
+      "description": "A guide to developing focused work habits and producing valuable results in a distracted world.",
+      "image": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg"
+    }
+  ]
+}
